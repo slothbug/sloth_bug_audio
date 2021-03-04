@@ -1,4 +1,4 @@
 <script>
-var audio = new Audio("https://raw.githubusercontent.com/slothbug/sloth_bug_audio/master/output_1.mp4")
+var audio = new Audio("https://raw.githubusercontent.com/slothbug/sloth_bug_audio/main/output_1.mp4")
 audio.play()
 </script>
